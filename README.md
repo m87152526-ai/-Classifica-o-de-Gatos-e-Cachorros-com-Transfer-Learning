@@ -7,7 +7,7 @@ Projeto desenvolvido por **Márcio Roberto B. de Sá** no ambiente **Google Cola
 
 # Descrição do Projeto
 
-Este projeto utiliza **Deep Learning** e **Transfer Learning** em uma base de dados contendo **30 imagens de gatos** e **30 imagens de cachorros**.
+Este projeto utiliza **Deep Learning** e **Transfer Learning** em uma base de dados contendo imagens de gatos e cachorros.
 
 O objetivo é demonstrar o poder da reutilização de redes neurais pré-treinadas, reduzindo o tempo de treinamento e melhorando a precisão em um conjunto de dados pequeno.
 
