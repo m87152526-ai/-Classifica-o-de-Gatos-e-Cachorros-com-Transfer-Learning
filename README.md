@@ -1,5 +1,5 @@
 
-# Classificação de Gatos e Cachorros com Transfer Learning
+# Classificação de Gatos e Cachorros com Transfer Learning.
 
 Projeto desenvolvido por **Márcio Roberto B. de Sá** no ambiente **Google Colab**, aplicando **Transfer Learning** com o modelo **MobileNetV2** para classificar imagens de **gatos e cachorros**.
 
